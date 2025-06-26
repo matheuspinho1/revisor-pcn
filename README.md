@@ -1,5 +1,8 @@
 ## Revisão de Plano de Curso Nacional com Inteligência Artificial
 
+![SENAC](https://img.shields.io/badge/SENAC-blue?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 Sistema automatizado para revisão e análise de Planos de Curso Nacionais (PCN) utilizando Inteligência Artificial Generativa, desenvolvido para acelerar a atualização da oferta educacional do SENAC em ocupações do Comércio de Bens, Serviços e Turismo, adequando-a às demandas atuais do mercado de trabalho.
 <br>
 <br>
