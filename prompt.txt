@@ -1,0 +1,576 @@
+<TAREFA>
+Atue como um pedagogo especialista em Educação Profissional do setor secundário (Comércio de Bens e Serviços), analise o Plano de Curso em anexo e faça recomendações em forma de relatório executivo **com 24 itens**, considerando o perfil atualizado do profissional, o impacto da Quarta Revolução Tecnológica nas ocupações, além das diretrizes do Modelo Pedagógico Senac (MPS)  e do Guia de Elaboração de Planos de Curso.
+o relatório em pdf precisa ser formatado para o tamnho A4 e não deve exibir o codigo html.
+Propor, com base nos documentos possibilidades de adequações ao Plano de Curso, mesmo que não estejam relacionadas aos impactos da automação.
+Para a tabela que propõe novos nomes para as Unidades Curriculares, a redação deve iniciar com um verbo (ação/fazer profissional), seguido do objeto sobre o qual a ação profissional incide. Exemplo: Recepcionar e atender clientes no meio de hospedagem.
+Nas tabelas com alterações nos "indicadores" e nos elementos de competência ("conhecimentos", "habilidades" e "atitudes/valores"), contemplar modificações para todas as Unidades Curriculares, de modo que nenhuma UC fique sem sugestões de alteração.
+</TAREFA>
+<INSTRUÇÕES>
+O processo de revisão dos Planos de Curso Nacionais (PCNs) busca acelerar o processo de atualização da oferta educacional a fim de adequar a formação profissional do Senac para ocupações do Comércio de Bens, Serviços e Turismo à atual demanda do mercado de trabalho.
+O ciclo de revisão se concentra em examinar a necessidade de atualizar seus componentes principais em continuidade ao estudo do Impacto da Automação que avaliou os seguintes elementos: unidades curriculares, indicadores de competência, conhecimento, habilidades, atitudes e valores. O processo emprega ferramentas de Inteligência Artificial Generativa (IA) para avaliar sistematicamente se os PCNs existentes permanecem alinhados com as demandas atuais em contextos profissionais e educacionais.
+O objetivo é utilizar algoritmos de IA Generativa para propor atualizações para cada PCN ou ainda a incorporação de novas tecnologias aos Planos de Trabalho Docente (PTDs), caso o impacto da automação não ainda não seja suficiente para ensejar uma mudança de PCN. Essas atualizações podem variar desde o ajuste de competências em unidades existentes até a criação de novos conteúdos que reforcem as mudanças do mercado por conta da Quarta Revolução Tecnológica.
+A IA deve avaliar a viabilidade, a solidez pedagógica e o alinhamento com as diretrizes institucionais e legais, além de priorizar as alterações aprovadas de acordo com seu impacto nos resultados de aprendizagem e conformidade com as políticas curriculares nacionais.
+Este processo deve detectar mudanças nos avanços tecnológicos, especialmente em relação ao impacto da IA, e atender às demandas de mercado em evolução.
+Ao integrar sistematicamente a IA Generativa neste ciclo de revisão de PCNs, visamos manter o alinhamento entre os PCNs e as políticas nacionais de educação e as tendências atuais do mercado. Este procedimento garante que os alunos adquiram competências relevantes para um ambiente cada vez mais influenciado por tecnologias de IA.
+A IA deve gerar um documento (relatório executivo), apoiando a decisão da gestão com base nos seguintes pontos:
+- Qual a previsão de nova atualização do PCN de acordo com os seguintes horizontes: Imediato (até 1 ano); Curto prazo (entre 1 e 2 anos); Médio prazo (entre 3 e 5 anos); Longo prazo (mais de 5 anos), levando em conta as múltiplas realidades do setor produtivo nos diversos estados brasileiros.
+- Justifique a previsão sugerida em cerca de 2.000 caracteres;
+- Escreva sugestões de orientações para que os docentes atualizem seus PTDs até o novo PCN entrar em vigor (estas orientações seriam enviadas para os supervisores pedagógicos dos DRs).
+A necessidade de atualização da Unidades Curriculares (UCs) deve ser avaliada de acordo com o impacto, o horizonte de aplicação e as tecnologias associadas, organizadas em 5 categorias. Na categoria 1, o impacto é de geração, com horizonte imediato (até 1 ano), associada à tecnologia de Inteligência Artificial Aplicada (IAA). Na categoria 2, há um impacto de transferência, previsto para curto prazo (entre 1 e 2 anos), envolvendo Aplicativos e Plataformas Digitais (APP). Já a categoria 3 aborda a substituição, com um horizonte de médio prazo (entre 3 e 5 anos), relacionada a robôs (RBO/RBT). A categoria 4 refere-se à ampliação, com perspectiva de longo prazo (mais de 5 anos), associada a Realidade Estendida (RE), Impressão e Modelagem 3D/4D (IMP), Internet das Coisas (IOT) e Análise de Dados (AD). A categoria 5 tem impacto classificado como "nenhum", sem definição de prazo específico para os casos em que não há impacto relevante de tecnologia na profissão.
+São quatro categorias de impacto das tecnologias sobre o trabalho. Na categoria "Ampliação", o impacto descrito é a expansão da capacidade do trabalhador visando aumento da produtividade e/ou qualidade, exemplificada pelo uso de um robô cirúrgico. Em "Transferência", ocorre a transferência de uma ou mais atividades antes realizadas pelo trabalhador diretamente para o consumidor, ilustrada pelo sistema de self-checkout. Na categoria "Geração", o impacto envolve a criação de novas atividades anteriormente inexistentes ou não realizadas pelo trabalhador, como no caso da Engenharia de Prompt. Por fim, na categoria "Substituição", o impacto é descrito como a transferência de atividades originalmente feitas por trabalhadores para máquinas, exemplificado pelo carro autônomo.
+As respostas da IA devem seguir o seguinte fluxograma de uma árvore de decisão. O ponto de partida do fluxograma é a pergunta se o PCN foi criado há mais de um ano. Se a resposta for sim, o fluxograma segue para a pergunta "O PCN está atualizado com a atual demanda do mercado de trabalho?". Se a resposta for não, o fluxograma sugere indicar atualizações para os Planos de Trabalho Docente (PTDs) a serem indicadas para os supervisores pedagógicos.
+Se a resposta para a pergunta "O PCN está atualizado com a atual demanda do mercado de trabalho?" for não, o fluxograma pergunta "É preciso que o PCN seja atualizado agora?". Se a resposta for sim, o fluxograma questiona "A atualização do PCN dá conta das mudanças necessárias?". Se a resposta for sim, o fluxograma termina com a revisão do PCN usando IA. Se a resposta for não, o fluxograma pergunta "A criação do novo curso invalida o título original?". Se a resposta for sim, o fluxograma sugere descontinuar o curso original. Se a resposta for não, o fluxograma sugere criar um novo curso e indicar atualizações para o PCN do curso original.
+Se a resposta para a pergunta "É preciso que o PCN seja atualizado agora?" for não, o fluxograma pergunta novamente "O PCN está atualizado com a atual demanda do mercado de trabalho?". Se a resposta for sim, o fluxograma termina com a revisão do PCN usando IA. Se a resposta for não, o fluxograma sugere indicar atualizações para os PTDs a serem indicadas para os supervisores pedagógicos.
+O PTD é um plano de aula para cada Unidade Curricular (UC) que tem o objetivo de desenvolver a competência desta UC. As recomendações para os Planos de Trabalho Docente, devem levar em conta que este documento possui 12 itens listados a seguir:
+
+<12 ITENS DO PTD>
+1. Unidade Curricular (UC):	
+ [Número da UC e Título/Nome da UC].
+
+2. Informações da Situação de Aprendizagem:
+[Descrição da Situação de Aprendizagem que visa o desenvolvimento da competência da Unidade Curricular (UC)].
+3. Situação de Aprendizagem:
+ [Número da Situação de Aprendizagem e Título].
+4. Carga horária da situação de aprendizagem:
+[quantidade de horas].
+5. Quantidade de aulas da situação de aprendizagem:
+ [número de aulas].
+6. Objetivo geral da Situação de Aprendizagem	:
+[Especificar de forma clara o objetivo geral das aulas desta situação de aprendizagem, relacionado ao desenvolvimento de competências específicas dos alunos, conforme a proposta curricular do curso. Indicar o objetivo geral da aula, relacionado ao desenvolvimento de competências].
+Exemplo: ""Desenvolver soluções em [tema específico], aplicando técnicas de [competência técnica] em [cenário prático], por meio do trabalho colaborativo e habilidades de resolução de problemas."""
+7. Competência a ser Desenvolvida:
+[Especificar a competência principal que será trabalhada na aula, vinculada ao desenvolvimento profissional dos alunos]."
+8. Elementos da Competência:
+Organizar os elementos que compõem a competência, incluindo:
+- Conhecimentos:
+Exemplo: ""Conceitos básicos de [área de conhecimento da competência a ser trabalhada durante a aula].""
+- Habilidades:
+Exemplo: ""Executar ações relacionadas à competência a ser trabalhada durante a aula""
+- Atitudes/Valores:
+Exemplo: ""Colaboração, proatividade, e foco na solução de problemas."""
+2g. Indicadores da Competência	"2g. Indicadores da Competência
+Descrever os indicadores que permitirão medir o desempenho dos alunos.
+
+Exemplo:
+Compreender os principais conceitos relacionados à [tema específico].
+Aplicar técnicas de [competência técnica] no contexto de [cenário prático].
+Desenvolver habilidades de trabalho colaborativo e resolução de problemas."
+
+9. Ambiente de Aprendizagem:
+ [Local onde a aula será realizada de acordo com as opções abaixo].
+
+Opções aceitas:
+- Sala de Aula
+- Laboratório
+- Biblioteca
+- Auditório
+- Empresa
+
+10. Roteiro detalhado da aula:
+[Descrever as estratégias e abordagens pedagógicas que serão usadas ao longo da aula]
+
+Opções:
+- Aula expositiva dialogada
+- Estudo de caso
+- Demonstração prática
+- Atividade prática orientada
+- Simulação de ambientes profissionais
+- Visita técnica
+- Criação e desenvolvimento
+- Plenária e Debate
+- Apresentação e demonstração
+
+Descrição detalhada das estratégias e atividades que serão utilizadas, incluindo:
+
+- Momento: [Nome do momento da aula, como ""Aquecimento"", ""Contextualização"", ""Prática"", etc.]
+- Tempo: [Tempo estimado para cada momento]
+- Atividade: [Descrição da atividade a ser realizada]
+- Objetivo: [Objetivo específico de cada atividade]
+- Recursos: [Recursos e materiais necessários para cada atividade]
+- Avaliação: [Como o aprendizado será avaliado em cada momento, se aplicável]
+
+Exemplos:
+
+Momento 1: Aquecimento (10 minutos)
+Atividade: Breve introdução ao tema, utilizando um estudo de caso ou exemplo prático.
+Objetivo: Despertar o interesse e conectar o conteúdo com situações reais.
+Recursos: Slides com estudo de caso ou vídeo.
+Avaliação: Discussão inicial sobre o caso, identificando o conhecimento prévio dos alunos.
+
+Momento 2: Contextualização (20 minutos)
+Atividade: Aula expositiva dialogada sobre os principais conceitos da competência.
+Objetivo: Apresentar as bases teóricas e práticas necessárias.
+Recursos: Slides, quadro branco, leitura de material de apoio.
+Avaliação: Perguntas guiadas para verificar a compreensão do conteúdo.
+
+Momento 3: Prática (60 minutos)
+Atividade: Realização de uma atividade prática em grupos, onde os alunos aplicam os conceitos aprendidos, como elaborar um plano ou resolver um problema.
+Objetivo: Promover o desenvolvimento das habilidades práticas necessárias.
+Recursos: Planilhas, software de gestão (se aplicável), fichas de atividades.
+Avaliação: Observação e feedback do instrutor, além de autoavaliação dos alunos.
+
+Para cada momento, listar os Recursos Necessários de acordo com os exemplos abaixo:
+Exemplos de Equipamentos:
+Projetor e computador para apresentação de slides
+Quadro branco e marcadores
+
+Exemplos de Materiais de apoio:
+Apostilas ou slides com o conteúdo teórico
+Planilhas de exercícios práticos
+Links para vídeos ou tutoriais online (caso aplicável)
+
+Exemplos de Materiais práticos:
+Fichas de atividade para a prática em grupos
+Software ou ferramentas específicas (dependendo do curso)
+
+Por último, descrever como o ciclo Ação-Reflexão-Ação do Modelo Pedagógico Senac (MPS) é executado durante a aula."
+
+11. Objetos de Aprendizagem (ODAs) e/ou Estratégias Metodológicas:
+[Especificar os Objetos Digitais de Aprendizagem ou estratégias tecnológicas que serão utilizados].
+
+Exemplos:
+Tutoriais em vídeo ou simuladores online.
+Plataforma de ensino à distância (se aplicável)."
+12. Recomendações para o Docente
+[Instruções específicas para o docente sobre como conduzir a aula].
+
+Exemplo: ""Foque em dar feedback contínuo durante as atividades práticas para garantir o aprendizado ativo dos alunos. Recomenda-se que o docente faça uma breve demonstração prática antes de iniciar a atividade prática dos alunos."""
+</12 ITENS DO PTD> 
+Cada Plano de Curso Nacional (PCN) possui cerca de 12 itens obrigatórios, os quais devem ser considerados pela IA para a produção do relatório.
+<12 ITENS DO PCN>
+# 1. Identificação do Curso
+# 2. Requisitos e Formas de Acesso
+# 3. Justificativa e Objetivos
+# 4. Perfil Profissional de Conclusão
+# 5. Organização Curricular
+## - Tabela com lista das Unidades Curriculares (UCs)
+## - Correquisitos
+## - Equivalência entre unidades curriculares
+## 5.1. Detalhamento das Unidades Curriculares
+# 6. Orientações Metodológicas
+## - Orientações metodológicas Gerais
+## - Orientações Metodológicas específicas por Unidade Curricular
+# 7. Aproveitamento de Conhecimentos e de Experiências Anteriores
+# 8. Avaliação
+# 9. Instalações, Equipamentos e Recursos Didáticos
+## 9.1 Instalações e equipamentos
+## 9.2. Recursos didáticos
+# 10. Perfil do Pessoal Docente e Técnico
+# 11. Bibliografia
+# 12. Certificação
+</12 ITENS DO PCN>
+Cada Unidade Curricular possui 8 itens:  Número, Nome/Título, Carga horária, Indicadores, Elementos, Conhecimentos, Habilidades, Atitudes/Valores.
+<8 ITENS DA UNIDADE CURRICULAR>
+# 1. Número (exemplo: UC1)
+# 2. Nome/Título (exemplo: Orientar clientes em relação às mercadorias, produtos e serviços)
+# 3. Carga horária
+# 4. Indicadores
+# 5. Elementos
+## 6. Conhecimentos
+## 7. Habilidades
+## 8. Atitudes/Valores
+</8 ITENS DA UNIDADE CURRICULAR>
+</INSTRUÇÕES>
+<24 ITENS DO RELATÓRIO>
+# Revisão do PCN “<NOME DO PLANO DE CURSO></NOME DO PLANO DE CURSO>”
+## 1. Cabeçalho:
+### - Nome do curso
+### - Carga horária
+### - Eixo tecnológico
+### - Segmento profissional
+### - Ano de criação/revisão
+### - Quantidade de Unidades Curriculares (UCs)
+### - Lista das Unidades Curriculares (UCs):
+-Liste as Unidades Curriculares exatamente da mesma forma em que elas estão redigidas no Plano de Curso.
+## 2. Tabela de Impacto por cada Unidade Curricular (UC)
+## 3. Tabela com propostas de novos nomes para cada UC
+## 4. Perfil Profissional de Conclusão
+## 5. Sugestões de Atualizações para o Perfil Profissional de Conclusão
+Adicionar uma seção "Sugestões de Atualizações para o Perfil Profissional de Conclusão", indique atualizações considerando possíveis mudanças no contexto de atuação profissional, inovações do setor ou novos arranjos produtivos e organizacionais(Considere o documento impacto da automação).
+As propostas de atualização devem se limitar aos seguintes trechos:
+Texto introdutório sobre o profissional e suas atribuições;
+Campo de atuação e formas de interação com outros profissionais e setores.
+Adicione
+## 6. Tabela Comparativa de Carga Horária por cada UC
+- Mostrando a carga horária anterior e a nova, com o campo para justificativa da nova carga horária
+## 7. Tabela com alterações dos “Indicadores” de cada competência/Unidade Curricular (UC)
+## 8. Tabela com alterações dos “Conhecimentos” de cada competência/Unidade Curricular (UC)
+## 9. Tabela com alterações das “Habilidades” de cada competência/Unidade Curricular (UC)
+## 10. Tabela com alterações das “Atitudes/Valores” de cada competência/Unidade Curricular (UC)
+## 11. Principal tipo de tecnologias que impactam as competências da profissão:
+Opções: IAA (Inteligência Artificial Aplicada); APP (Aplicativos e Plataformas Digitais); RBO/RBT (Robôs); RE (Realidade Estendida); IOT (Internet das Coisas); AD (Análise de Dados); IMP (Impressão e modelagem 3D/4D).
+## 12. Justificativa da resposta do item 10 (Principal tipo de tecnologias que impactam as competências da profissão).
+- Justifique a resposta em texto por extenso com aproximadamente 2.000 caracteres.
+## 13. Principal tipo de impacto nas competências da profissão:
+Opções: Geração; Transferência; Substituição; Ampliação; Nenhum.
+## 14. Justificativa da resposta do item 12 (Principal tipo de impacto nas competências da profissão).
+- Justifique a resposta em texto por extenso com aproximadamente 2.000 caracteres.
+## 15. O PCN deve ser Mantido, Atualizado ou Descontinuado?
+Opções: Mantido; Atualizado; Descontinuado.
+## 16. Justificativa da resposta do item 14 (PCN deve ser Mantido, Atualizado ou Descontinuado?).
+- Justifique a resposta em texto por extenso com aproximadamente 2.000 caracteres.
+## 17. Qual o horizonte de atualização do PCN (caso a resposta do item 13 seja ‘Atualizado’)?
+Opções: Imediato (até 1 ano); Curto prazo (entre 1 e 2 anos); Médio prazo (entre 3 e 5 anos); Longo prazo (mais de 5 anos).
+## 18. Justificativa da resposta do item 16 (horizonte de atualização do PCN).
+- Justifique a resposta em texto por extenso com aproximadamente 2.000 caracteres.
+## 19. Sugestão do nome de novo curso (caso seja sugerida a descontinuidade do PCN avaliado no item 13)
+## 20. Justificativa da resposta do item 18 (Sugestão do nome de novo curso).
+- Justifique a resposta em texto por extenso com aproximadamente 2.000 caracteres.
+## 21. Sugestões para atualização de PTDs
+Escreva sugestões de orientações para que os docentes atualizem seus Planos de Trabalho Docente (PTDs) até o novo PCN entrar em vigor (estas orientações seriam enviadas para os supervisores pedagógicos). A resposta deve ser em texto por extenso com aproximadamente 2.000 caracteres.
+## 22. Projeto Integrador
+Inserir uma tabela contendo possíveis aperfeiçoamentos e propostas de atualização referentes aos dois temas geradores do Projeto Integrador previstos no Plano de Curso. A tabela deve conter duas colunas:
+Coluna 1: Tema gerador
+Coluna 2: Propostas de atualização à luz dos impactos da automação
+## 23. Instalações, Equipamentos e Recursos Didáticos
+Atualizações nos Instalações, Equipamentos e Recursos Didáticos: 
+Inserir as demandas por equipamentos e recursos necessários à implementação das atualizações sugeridas nas Unidades Curriculares. Caso alguma UC seja impactada por transformações decorrentes da automação, devem ser especificados os recursos e adequações requeridos nos ambientes de aprendizagem para sua viabilização. 
+## 24. Tabela de referências
+Liste cada documento utilizado na análise, que são os que estão em BASE, os que você leu e explique como cada documento foi usado na análise.
+A tabela deve ser organizada em 2 colunas, cujos títulos seguem abaixo, da esquerda para a direita:
+- Documento/Referência
+</24 ITENS DO RELATÓRIO>
+<FONTES>
+Descreva como cada documento foi utilizado para gerar este relatório.
+</FONTES>
+<FINE-TUNING>
+**Estruturar em tabela em linguagem HTML com cada Unidade Curricular (UC) listada em uma linha além de colunas com justificativa detalhada explicando o que deve mudar e o motivo da mudança.**
+No eixo vertical, considerar a categoria de impacto com as seguintes categorias e qual a mudança deve ser feita:
+- Geração (Imediato - até 1 ano)
+- Transferência (Curto prazo - entre 1 e 2 anos)
+- Substituição (Médio prazo - entre 3 e 5 anos)
+- Ampliação (Longo prazo - mais de 5 anos)
+- Nenhum impacto
+/// Proposta de Reestruturação da Carga Horária (se aplicável) detalhando o que deve mudar para atender a mudança de carga horária proposta.
+Unidades curriculares devem ter a carga horária múltiplo de 12.
+Explicar o motivo da proposta de mudança de cada Unidade Curricular da nova proposta de plano de curso.
+Para cursos de Qualificação Profissional (mínimo 160h), reorganizar e tentar reduzir a carga horária total ficar mais próximo do mínimo.
+Para os cursos de Habilitação Profissional Técnica de Nível Médio, a carga horária deve permanecer entre 800 e 1.200 horas.
+Quanto a eventuais alterações na carga horária, para ambos os tipos de curso, é importante considerar os seguintes aspectos:
+- Qualquer sugestão de aumento na carga horária de uma Unidade Curricular deve ser acompanhada por uma redução proporcional em outra UC, de modo a preservar carga horária total do curso.
+- No caso de inclusão de uma nova UC ou exclusão de uma UC existente, a carga horária total do curso deve também ser preservada, com a redistribuição adequada das horas entre as Unidades Curriculares mantidas.
+/// Criar uma tabela comparativa com:
+- Carga horária original [original]
+- Nova carga horária proposta [proposta]
+- Justificativa das Mudanças Sugeridas [justificativa]
+                                  
+/// Para todas as Unidades Curriculares (UC) que sofrerem sugestão alteração indicada na tabela, apresentar:
+# 1. Novo nome (se necessário). 
+Para a redação de um novo nome, considere a Unidade Curricular como sendo a própria competência. A competência, no entendimento do Senac, é uma ação/fazer profissional observável, potencialmente criativa, que articula conhecimentos, habilidades, atitudes/valores e permite desenvolvimento contínuo. Após o estudo detalhado da ocupação e do conjunto de suas atribuições, é necessário responder à seguinte pergunta para redigir as competências de um curso: o que o profissional em questão faz?.
+A resposta deverá ser iniciada com um verbo (ação/fazer profissional), seguido do objeto sobre o qual incide a ação profissional. 
+ Exemplo: 
+- Ocupação: Recepcionista em meios de hospedagem 
+- O que esse profissional faz? 
+- Recepcionar e atender (ação) clientes no meio de hospedagem (objeto). 
+/// Logo, a competência “Recepcionar e atender clientes no meio de hospedagem” será uma das Unidades Curriculares do curso de Recepcionista em meios de hospedagem.
+O desafio na redação da competência consiste em construir um enunciado que expresse os múltiplos aspectos, elementos e relações que se estabelecem em cada fazer profissional da ocupação. Para atender ao conceito de competência proposto pelo Senac, é importante que os enunciados explicitem a complexidade da ação profissional sem fragmentá-la em tarefas.
+Uma boa estratégia é testar se a redação da competência atende ao conceito proposto pelo Senac por meio das seguintes perguntas:
+ - 1. É um fazer/ação profissional observável? 
+ A redação da competência deve apresentar um fazer/ação observável cujo resultado é um produto mensurável. Esse fazer/ação ocorre no aspecto macro da ocupação, sendo mais complexo do que a tarefa, porque mobiliza habilidades, conhecimentos, atitudes e valores em sua realização 
+                                    
+- 2. É potencialmente criativo e remete a uma ação complexa? 
+ O fazer/ação descrito no enunciado da competência deve se referir a um trabalho que pode ser feito de diferentes maneiras, de forma que não resultem somente em procedimentos protocolares. O fazer profissional rotineiro e repetitivo, que prescinde da autonomia do trabalhador e da possibilidade de experimentação durante a execução, não será considerado uma competência. 
+                                    
+- 3. Articula conhecimentos, habilidades e atitudes/valores? 
+A condição de articular conhecimentos, habilidades, atitudes/valores indica que esses são os três principais pilares da competência, tendo em vista serem os elementos que são por ela mobilizados. Seu exercício ultrapassa a soma desses itens, pois os alunos devem mobilizar os elementos de acordo com as situações e os desafios apresentados pela ocupação. Essa perspectiva reduz a possibilidade de formação de profissionais com pleno conhecimento sobre um fazer, capazes de descrever etapas e processos, mas que não desempenham de forma satisfatória suas funções; também desestimula a formação de profissionais com domínio de habilidades, porém sem domínio dos conhecimentos necessários para a atuação profissional. 
+                                    
+- 4. Permite desenvolvimento contínuo? 
+Essa condição para a redação da competência tanto pressupõe a necessidade de aprimoramento da competência, tendo em vista as constantes transformações do mundo do trabalho e o progresso científico e tecnológico da sociedade, quanto expressa sua inerente capacidade de estimular o desenvolvimento pessoal no contexto do trabalho, pois realiza bem um fazer profissional, complexo e criativo, em consonância com o contexto no qual ele é produzido. 
+                                    
+/// Para ilustrar como essas perguntas auxiliam na redação da competência, segue o exemplo da competência “Recepcionar e atender clientes no meio de hospedagem” do curso de Qualificação Profissional em Recepcionista em meios de hospedagem:
+                                    
+- 1. É um fazer/ação profissional observável? 
+                                    
+Resposta: É um fazer/ação profissional observável, uma vez que o docente pode observar, por meio de situações de aprendizagem, o aluno “recepcionando” e “atendendo” clientes.
+                                    
+- 2. É potencialmente criativo e remete a uma ação complexa? 
+É potencialmente criativa, pois é uma ação complexa, que pode ser realizada de maneiras variadas, exigindo uma postura crítico-reflexiva do aluno durante sua execução.
+                                    
+- 3. Articula conhecimentos, habilidades e atitudes/valores? 
+Resposta: Exige que o aluno articule e mobilize vários conhecimentos, habilidades e atitudes/valores durante sua execução.
+                                    
+- 4. Permite desenvolvimento contínuo? 
+Resposta: Permite aprimoramento contínuo, por meio da vivência da ação, tanto em situação simulada quanto em contexto real de trabalho.
+                                    
+/// São exemplos de competências: 
+- Preparar produções gastronômicas. 
+- Embalar e empacotar mercadorias e produtos. 
+- Monitorar riscos ocupacionais. 
+- Realizar procedimentos estéticos faciais de renovação celular da pele. 
+
+# 2. Nova carga horária
+A nova carga horária indicada deve ter, no mínimo, 36 horas e, no máximo, 108 horas, em função da operacionalização das Unidades Curriculares. Além disso, deve-se adotar, nessas Unidades Curriculares, a carga horária que seja múltipla de 12 (por exemplo: 36 horas; 48 horas; 60 horas; 72 horas; 84 horas; 96 horas; 108 horas). 
+		
+**Vale ressaltar que a carga horária dos Projetos Integradores NÃO deve ser modificada.**
+
+# 3. Indicadores
+ Para redigir novos indicadores, considere os três itens a seguir, que devem ser organizados na seguinte sequência:
+- i. Verbo na 3ª pessoa do presente do indicativo – Ação a ser realizada
+- ii. Objeto – Material, pessoa, situação etc.
+- iii. Condição/contexto da ação – O que é necessário para a ação de ocorrer/de que modo ação ocorre. São parâmetros de realização da ação. 
+Siga os exemplos abaixo:                          
+- Realiza (ação) otimização dos sites webs (objeto) conforme os requisitos de exportação de imagens (condição/contexto da ação).
+- Executa (ação) técnicas de cocção (objeto) considerando tempo, temperatura e característica dos alimentos (condição/contexto da ação).
+- Separa (ação) as mercadorias e os produtos (objeto), categorizando-os de acordo com suas especificidades (condição/contexto da ação).
+- Realiza (ação) a contagem, o fracionamento e a pesagem de mercadorias e produtos (objeto), de acordo com o sistema de pesos e medidas (condição/contexto da ação).
+- Seleciona (ação) os equipamentos de medição, conforme o risco ocupacional (condição/contexto da ação). 
+- Avalia (ação) os níveis de exposição aos riscos ocupacionais (objeto), conforme a legislação (condição/contexto da ação). 
+- Atende (ação) às necessidades do cliente (objeto), respeitando procedimentos e legislações vigentes (condição/contexto da ação).
+- Consulta (ação) a disponibilidade de serviços, mercadorias e produtos (objeto), conforme demanda de clientes e fluxo de estoque (condição/contexto da ação).
+- Apresenta (ação) e divulga mercadorias, produtos e serviços (objeto), utilizando ferramentas de merchandising (condição/contexto da ação).
+/// Após elaborar os indicadores de uma competência, deve-se verificar se os enunciados estão adequados, respondendo às seguintes perguntas: 
+- Explicita a aprendizagem esperada, evidenciando o desenvolvimento da competência? 
+- Está associado a mais de um elemento da competência? 
+- É de fácil entendimento por todos os envolvidos no processo? 
+- É verificável em ambiente de aprendizagem por meio de um ou mais instrumentos de avaliação? 
+- Para ser um indicador, a resposta deve ser afirmativa nas quatro perguntas. 
+/// Sobre os indicadores, é importante ressaltar ainda: 
+- Devem ter correspondência com os elementos de competência. 
+- Devem apresentar no enunciado a possibilidade de mobilizar sempre mais de um elemento da competência. 
+- Precisam ser redigidos de forma clara e contextualizada, para que o docente tenha parâmetros objetivos para a avaliação do aluno em ambiente pedagógico. 
+- Devem abranger ações observáveis ou relacionadas com processos cognitivos, podendo estas ser verificadas por meio de instrumentos de avaliação. Por exemplo, para indicadores em que consta “Identificar”, podem ser solicitados aos alunos relatórios, e análise de casos, uma vez que permitem aferir o desempenho do aluno. 
+- Não devem apresentar nos enunciados a finalidade da ação a ser realizada, pois não faz parte da estrutura para a escrita de indicadores, já que isso tornaria o texto longo e levaria a repetir a própria competência. 
+- Caso o indicador não apresente contexto/condição em que ocorre o fazer previsto, cumpre avaliar se realmente é um indicador ou se é um elemento de competência. 
+- É possível existirem indicadores com ação e objetos iguais e com apenas contextos diferentes. 
+- Deve-se averiguar se a condição/contexto pressupõe as circunstâncias necessárias que caracterizam o modo de realizar as ações previstas no indicador, pois é a condição/contexto que dá parâmetros seguros para que o indicador cumpra sua função de avaliação. Se a condição/contexto proposta for muito específica e limitada ou muito ampla e genérica, dificilmente atingirá esse objetivo. 
+- Não há uma relação exata entre a carga horária da competência e a quantidade de indicadores redigidos. Para definir a quantidade de indicadores presentes em uma competência, é preciso avaliar a carga horária da competência, sua complexidade e os elementos necessários para seu desenvolvimento. Vale ressaltar que a existência de competências com uma extensa lista de indicadores ou com poucos indicadores pode trazer dificuldades de avaliação para os docentes. 
+
+/// Após considerar esses pontos, ao indicar os indicadores, solicito que o faça seguindo este formato: número do indicador + ponto + espaço + redação do indicador. Por exemplo:
+- 1. Descreve as funcionalidades e aplicações da arquitetura de computadores, de acordo com as orientações técnicas do fabricante.
+- 2. Utiliza medidas de prevenção contra descargas eletrostáticas, de acordo com as orientações do fabricante.
+- 3. Testa componentes de computadores e periféricos, de acordo com as recomendações técnicas.
+- 4. Elementos de Competência: Os elementos da competência são os conhecimentos, as habilidades e as atitudes/valores que são mobilizados de forma articulada no desenvolvimento da competência. Para garantir a operacionalidade do modelo curricular proposto, é necessário definir cada elemento, lembrando que todos estão inter-relacionados na prática educativa e profissional. 
+/// Para redação dos elementos da competência, é preciso estar atento aos seguintes aspectos: 
+- Os elementos devem estar diretamente relacionados com a competência e podem estar relacionados com mais de um indicador. Um indicador sempre mobilizará mais de um elemento, para evidenciar o desenvolvimento da competência. Desse modo, os indicadores são importantes referências para a definição do recorte que se dará ao elemento a ser mobilizado.                     
+- Os elementos podem repetir-se em várias competências, caso sejam comuns entre elas. Isso ocorre porque, para o desenvolvimento das competências de um Perfil Profissional de Conclusão, pode ser que seja necessário mobilizar os mesmos conhecimentos, habilidades ou atitudes/valores em diferentes competências. A falta de clareza em relação a esse princípio pode gerar tanto o excesso de pré-requisitos nos cursos, o que dificulta sua operacionalização, quanto a ausência de elementos que são necessários para o desenvolvimento de uma competência, o que poderá comprometer a aprovação na Unidade Curricular. A presença de um mesmo elemento em diferentes competências do Perfil Profissional significa que esse elemento será mobilizado de maneira articulada aos demais para o desenvolvimento de cada competência. 
+
+- 4.1 Conhecimentos
+São os conceitos, as informações, os princípios científicos e as disposições legais que fundamentam a ação profissional. Para identificar quais são os conhecimentos necessários no contexto da competência, a pergunta que deve ser feita é: o que o aluno precisa saber para desempenhar o fazer profissional descrito na competência? 
+Para a redação desse elemento, deve-se explicitar apenas o recorte específico do conhecimento relativo à competência, evitando-se utilizar categorias amplas ou temas genéricos, que gerem dúvidas aos docentes no momento de planejar as aulas. O exemplo a seguir ilustra o recorte que deve ser priorizado na redação dos conhecimentos:
+ Forma inadequada de redigir conhecimentos: 
+- Matemática básica; 
+- Legislação trabalhista; 
+- Anatomia.
+                                    
+Forma adequada de redigir conhecimentos: 
+- Cálculo de entrega de mercadora; 
+- CLT: direitos e deveres;
+- Vascularização dos membros inferiores.
+
+No que se refere ao elemento conhecimento, ressalta-se a importância de inserir o recorte que deverá ser dado a cada competência em específico, uma vez que os elementos são elencados de acordo com a competência. Caso não haja distinção entre o recorte, isso não significa que esse elemento deverá ser abordado pelos docentes repetidas vezes. O planejamento integrado do curso visa a, entre outras coisas, evitar situações como essa. Os conhecimentos são descritos com o recorte do que deve ser abordado no contexto específico da Unidade Curricular. Por exemplo, no curso Habilitação Profissional Técnica em Enfermagem, o conhecimento relacionado com a “Política Nacional de Humanização (Ministério da Saúde)” está distribuído, nas Unidades Curriculares, a partir do seguinte recorte:
+- UC 1 Política Nacional de Humanização: princípios, diretrizes, métodos, equipe transdisciplinar de referência, apoio matricial, clínica ampliada e redes de atenção.
+- UC 5 Política Nacional de Humanização (Ministério da Saúde): escuta ativa e acolhimento.
+
+Para verificar se os conhecimentos definidos estão adequados, sugere-se que sejam respondidas positivamente às seguintes perguntas:
+- O conhecimento indicado corresponde ao que o aluno precisa saber para desempenhar o fazer profissional descrito na competência? 
+- É um recorte específico dos saberes da ocupação? 
+- É plenamente mobilizado para o desempenho da competência? 
+- Explicita o grau de complexidade a ser abordado com os alunos? 
+                           
+Após considerar esses pontos, ao indicar a relação de conhecimentos, solicito que utilize o seguinte formato: conhecimento de escopo mais abrangente + dois pontos + recortes pertencentes a esse conhecimento de caráter mais amplo. Por exemplo: 
+- Sistema Operacional – Sistemas de arquitetura aberta e fechada: versões e distribuições. Estrutura do sistema de arquivos. Contas de usuários; privilégios. Ambiente e elementos da área de trabalho. Compactação e descompactação de arquivos e pastas. Gravação em mídias.
+- Sistemas numéricos – Binário, decimal, octal e hexadecimal; unidades de medidas de armazenamento de dados: bits (b) e bytes (B), KB, MB, GB, TB e PB. Unidades de medidas de processamento: ciclos de processamento. Clock interno e externo. Hertz (Hz): MHz e GHz.
+- Fundamentos de arquitetura de computadores – Barramentos. Unidade lógica aritmética. Registradores. Unidade de controle. Memória principal e secundária. Controladores de entrada e de saída. Encapsulamentos: DIP, TQFP, SOJ, TSOP.
+- Fundamentos de eletricidade e eletrônica – Conceitos de eletricidade, geração, distribuição e consumo; padrões: monofásico, bifásico, trifásico, grandezas elétricas fundamentais: tensão, corrente, resistência, potência, frequência; leis fundamentais: leis de OHM, Kirchoff; tipos de tensões e correntes: contínua e alternada. Elementos de uma onda alternada senoidal. Riscos da corrente elétrica; componentes eletroeletrônicos discretos e SMD: capacitores, resistores, diodos, transistores; transformadores, indutores, fotoacopladores, termistores; circuitos retificadores: meia-onda, onda completa. 
+- Multímetros – tipos; procedimentos de utilização (potência, valores, escala). Teste de componentes eletroeletrônicos: resistores, fusíveis, potenciômetros, capacitores, diodos, transistores. Reballing BGA.
+                       
+Todos os conhecimentos listados devem ser antecedidos por bullet points
+- 4.2 Habilidades: 
+Habilidade é o elemento de competência que se refere ao saber fazer e consiste na realização de determinadas práticas de ordem motora, cognitiva, socioemocional e de relação interpessoal a serem mobilizadas de maneira articulada com os demais elementos da competência no contexto da ocupação. As habilidades a serem indicadas nos Planos de Cursos devem ser aquelas inerentes ao processo de trabalho da ocupação e pertinentes à referida competência. 
+ /// Deve-se evitar a escrita de habilidades no nível do fazer prescrito no tempo (tarefas), de forma genérica ou abrangente, ou, ainda, ainda, de forma que não remeta a fazeres claramente relacionados à competência em questão. Por exemplo, “trocar fraldas”, “dar banho” e “escovar os dentes” são tarefas realizadas pelo cuidador de idosos no âmbito da ocupação, o que requer desse profissional a habilidade de “higienizar o idoso”.
+Critérios para identificar uma tarefa: 
+- Implica uma ação que modifica um objeto, observando condições dadas. 
+- Enquanto a função se centra no que se faz, a tarefa se refere usualmente ao como se faz. 
+- Está integrada por um conjunto de passos (estes são operações elementares) 
+- É desenvolvida por um trabalhador, como parte de uma área de seu trabalho (de uma função) 
+- É observável, verificável, repetível, mensurável no tempo. 
+
+/// Um exemplo de escrita que, não raro, parece genérica demais é a habilidade18 de “comunicar-se com clareza e objetividade”. Como “comunicar-se” é um fazer que, pela natureza da ação, perpassa por todos os perfis profissionais, é preciso ter cuidado ao adotá-lo como uma das habilidades no contexto das competências, verificando se realmente é um saber fazer inerente àquela competência. Por exemplo, para as ocupações de Operador de telemarketing e Recepcionista, “comunicar-se” é uma habilidade inerente ao processo de trabalho de ambas, pois, independentemente das técnicas específicas de comunicação previstas nos conhecimentos dos cursos, para essas ocupações é imprescindível o domínio dessa capacidade. 
+ Uma habilidade pode ser necessária em mais de uma competência do curso ou, ainda, estar presente em ocupações distintas.
+As habilidades são desenvolvidas e aprimoradas no decorrer do processo educacional ao se articularem com os demais elementos em contexto real ou simulado do trabalho. 
+
+Para redigir as habilidades, considere a seguinte estrutura: verbo no Infinitivo (capacidade/destreza) + objeto
+Por exemplo:
+- Operar planilha (capacidade/destreza) de cálculo (objeto da operação)
+**Todos as habilidades listadas devem ser antecedidas por bullet points**.
+                                    
+- 4.3 Atitudes/Valores
+ Atitudes e valores apresentam as disposições individuais sobre a percepção de mundo das pessoas. Relacionam-se com as normas e os juízos que influenciam os comportamentos nas mais diversas situações sociais que envolvem a prática profissional. Ao se articularem com os conhecimentos e as habilidades, as atitudes/valores contribuem para dimensionar o comprometimento relacional e social do profissional com o trabalho.
+Para identificar as atitudes/valores necessárias ao desenvolvimento da competência, deve-se qualificar os valores habitualmente preconizados — como ética, cooperação e respeito — no contexto da competência a ser desenvolvida, evitando valores genéricos ou abrangentes.
+ Para a redação do elemento atitudes/valores, considere a seguinte forma: substantivo (disposição a comportamentos esperados na ocupação) + A quem se dirige ou a que atende o comportamento (contexto da atividade profissional)
+Por exemplo: 
+- Proatividade (indica uma disposição individual) no encaminhamento das informações de cálculo (a quem atende o comportamento)
+/// Para verificar se as atitudes/valores definidas estão adequadas, sugere-se que se responda positivamente às seguintes perguntas: 
+- Representa disposição a comportamentos compatíveis com a ocupação? 
+- A contextualização está relacionada com a competência? 
+/// Entre os elementos de competência, as habilidades e atitudes/valores tendem a apresentar maior possibilidade de variação na forma como são redigidas. Com o objetivo de alinhar a escrita desses elementos, no Apêndice 2 deste Guia é apresentada uma listagem com a escrita padronizada de habilidades e atitudes/valores de maior ocorrência nos Planos de Curso. 
+
+Ainda em relação às habilidades e atitudes/valores, é importante estar atento aos seguintes aspectos: 
+- I) As habilidades e atitudes/valores devem estar relacionadas diretamente com a competência que lhes dão origem. No entanto, algumas habilidades e atitudes/valores mais amplas podem ter escrita genérica. Exemplo: 
+Habilidades 
+- Comunicar-se de maneira assertiva. 
+- Mediar conflitos em situações de trabalho. 
+                                    
+Atitudes/valores
+- Cordialidade no trato com as pessoas. 
+- Sigilo no tratamento de dados e informações. 
+                                    
+- II) É preciso ter atenção à redação da capacidade/destreza que se deseja expressar no enunciado da habilidade, evitando confundi-la com os objetivos de aprendizagem. Um objetivo de aprendizagem específica, em termos de ação docente, o que se espera que o aluno alcance ao fim de um processo educativo; portanto, não se traduz em habilidades a serem mobilizadas no âmbito das competências. Exemplos de objetivos de aprendizagem que comumente se confundem com habilidades: “desenvolver destreza manual e coordenação motora” e “demonstrar visão sistêmica”.
+- III) Na redação da habilidade, não se deve abordar o contexto ou a finalidade da ação expressa, e nem a condição para ocorrência desse fazer, sob o risco de a redação da habilidade ser confundida com a redação do indicador. Assim, por exemplo, “acompanhar e perceber a reação da pele durante os procedimentos de peeling e estímulos eletroterápicos” apresenta a condição para a ocorrência do fazer. Uma possibilidade seria retirar o contexto e centrar a redação do enunciado na ação principal da habilidade: “identificar as reações da pele”.
+- IV) Uma habilidade denota ação, enquanto as atitudes/valores apresentam disposições e formas de percepção de mundo. A depender das características da competência, um termo pode ser apresentado como habilidade ou como atitude/valor. Exemplo: um curso apresenta a habilidade “ser proativo na resolução de problemas”. Essa habilidade duplica-se, no mesmo curso, na atitude/valor “proatividade na resolução de problemas”. Nesse caso, o mais indicado é que o grupo elaborador opte por um elemento ou outro. 
+- V) Evitar a redação de habilidades com muitas ações/atividades em um mesmo enunciado. Exemplo: “Pesquisar, selecionar e organizar dados e informações para o projeto”. 
+- VI) Evitar a redação de atitudes/valores com muitos substantivos em um mesmo enunciado. Exemplo: “Respeito, cordialidade, empatia, flexibilidade e dinamismo no atendimento aos diferentes tipos de clientes”.
+/// Uma vez que todos os pontos relativos aos Elementos de Competência forem considerados, solicito que a relação deles seja feito no mesmo formato dados abaixo:                              
+- Conhecimentos
+- Conhecimento 1.
+- Conhecimento 2.                     
+Habilidades
+- Habilidade 1.
+- Habilidade 2.
+Atitudes/Valores
+- Atitude/valor 1.
+- Atitude/valor 2.
+- 5. Justificativa da mudança
+Indique os indicadores e elementos de competência, se aplicável, que necessitam de alteração. Em seguida, apresente as razões que justificam a necessidade de modificação em suas redações e de exemplo. Posteriormente, proponha a nova redação sugerida. Por fim, explique os motivos pelos quais essa versão se mostra mais alinhada à natureza e à aplicação do indicador ou elemento de competência.
+- 6. Análise Geral e Recomendações
+Atualizações necessárias considerando tendências do mercado e impacto da automação no contexto brasileiro.
+Este relatório deve seguir as orientações do documento Guia_Elaboracao_PCs_fev_2023.pdf para definir as mudanças propostas e o novo plano de curso revisado.
+Com as Referências e listar os documentos utilizados e explicar como cada documento foi usado na análise.
+- 7. Formato de entrega da análise dos Planos de Curso (sugiro incluir o documento resultante do fórum setorial)
+O relatório de análise do Plano de Curso deve conter os seguintes elementos, sequenciados na ordem particular dada abaixo:
+## 1. Cabeçalho
+### - Nome do curso:
+### - Carga horária
+### - Eixo tecnológico
+### - Segmento profissional
+### - Ano de criação/revisão
+### - Quantidade de Unidades Curriculares (UCs)
+### - Lista das Unidades Curriculares (UCs)
+
+<FORMATOS DAS TABELAS>
+## Tabela de impacto por Unidade Curricular (UC)
+A tabela deve ser organizada em 5 colunas, cujos títulos seguem abaixo, da esquerda para a direita:
+- UC [Número e Nome/Título da Unidade Curricular]
+- Categoria de impacto [Geração; Transferência; Ampliação; Nenhum] 
+- Principal Tecnologia de Impacto na UC [IAA (Inteligência Artificial Aplicada); APP (Aplicativos e Plataformas Digitais); RBO/RBT (Robôs); RE (Realidade Estendida); IOT (Internet das Coisas); AD (Análise de Dados); IMP (Impressão e modelagem 3D/4D)]
+- Horizonte de Atualização da UC [Imediato (até 1 ano); Curto prazo (entre 1 e 2 anos); Médio prazo (entre 3 e 5 anos); Longo prazo (mais de 5 anos); Nenhum]
+- Justificativa [Texto por extenso com até 500 caracteres com justificativa detalhada das opções: categoria de impacto, Principal tecnologia de Impacto na UC, Horizonte de Atualização da UC]
+
+## Tabela Comparativa de Carga Horária por cada UC
+- Mostrando a carga horária anterior e a nova, com o campo para justificativa da nova carga horária
+
+## Tabela com propostas de novos nomes para cada UC
+Os nomes para as Unidades Curriculares, a redação deve iniciar com um verbo (ação/fazer profissional), seguido do objeto sobre o qual a ação profissional incide. Exemplo: Recepcionar e atender clientes no meio de hospedagem.
+A tabela deve ser organizada em 4 colunas, cujos títulos seguem abaixo, da esquerda para a direita:
+- UC
+[Número e Nome/Título da Unidade Curricular]
+- É preciso alterar o nome da UC?
+Opções: Sim; Não.
+- Novo nome sugerido para a UC
+- Justificativa da mudança no nome
+
+## Tabela com alterações dos “Indicadores” de cada competência/Unidade Curricular (UC)
+Nas tabelas com alterações nos "indicadores" e nos elementos de competência ("conhecimentos", "habilidades" e "atitudes/valores"), contemplar modificações para todas as Unidades Curriculares, de modo que nenhuma UC fique sem sugestões de alteração. Todas as UC precisam ter alguma sugestão de melhoria
+A tabela deve ser organizada em 3 colunas, cujos títulos seguem abaixo, da esquerda para a direita:
+- UC
+[Número e Nome/Título da Unidade Curricular]
+- Proposta de novos Indicadores
+- Justificativa da mudança proposta
+
+## Tabela com alterações dos “Conhecimentos” de cada competência/Unidade Curricular (UC)
+A tabela deve ser organizada em 3 colunas, cujos títulos seguem abaixo, da esquerda para a direita:
+- UC
+[Número e Nome/Título da Unidade Curricular]
+- Proposta de novos Conhecimentos
+- Justificativa da mudança proposta
+
+## Tabela com alterações das “Habilidades” de cada competência/Unidade Curricular (UC)
+A tabela deve ser organizada em 3 colunas, cujos títulos seguem abaixo, da esquerda para a direita:
+- UC
+[Número e Nome/Título da Unidade Curricular]
+- Proposta de novas Habilidades
+- Justificativa da mudança proposta
+
+
+## Tabela com alterações das “Atitudes/Valores” de cada competência/Unidade Curricular (UC)
+A tabela deve ser organizada em 3 colunas, cujos títulos seguem abaixo, da esquerda para a direita:
+- UC
+[Número e Nome/Título da Unidade Curricular]
+- Proposta de novas Atitudes/Valores
+- Justificativa da mudança proposta
+</FORMATOS DAS TABELAS>
+## 8. Principal tipo de tecnologias que impactam as competências da profissão: 
+Opções: IAA (Inteligência Artificial Aplicada); APP (Aplicativos e Plataformas Digitais); RBO/RBT (Robôs); RE (Realidade Estendida); IOT (Internet das Coisas); AD (Análise de Dados); IMP (Impressão e modelagem 3D/4D). 
+## 9. Justificativa da resposta do item 9 (Principal tipo de tecnologias que impactam as competências da profissão). 
+- Justifique a resposta em texto por extenso com aproximadamente 2.000 caracteres. 
+## 10. Principal tipo de impacto nas competências da profissão: 
+Opções: Geração; Transferência; Substituição; Ampliação; Nenhum. 
+## 11. Justificativa da resposta do item 11 (Principal tipo de impacto nas competências da profissão). 
+- Justifique a resposta em texto por extenso com aproximadamente 2.000 caracteres. 
+## 12. O PCN deve ser Mantido, Atualizado ou Descontinuado? 
+Opções: Mantido; Atualizado; Descontinuado. 
+## 13. Justificativa da resposta do item 13 (PCN deve ser Mantido, Atualizado ou Descontinuado?). 
+- Justifique a resposta em texto por extenso com aproximadamente 2.000 caracteres. 
+## 14. Qual o horizonte de atualização do PCN (caso a resposta do item 13 seja ‘Atualizado’)? 
+Opções: Imediato (até 1 ano); Curto prazo (entre 1 e 2 anos); Médio prazo (entre 3 e 5 anos); Longo prazo (mais de 5 anos). 
+## 15. Justificativa da resposta do item 15 (Horizonte de atualização do PCN). 
+- Justifique a resposta em texto por extenso com aproximadamente 2.000 caracteres. 
+## 16. Sugestão do nome de novo curso (caso seja sugerida a descontinuidade do PCN avaliado no item 13) 
+## 17. Justificativa da resposta do item 17 (Sugestão do nome de novo curso). 
+- Justifique a resposta em texto por extenso com aproximadamente 2.000 caracteres. 
+## 18. Sugestões para atualização de PTDs 
+Escreva sugestões de orientações para que os docentes atualizem seus Planos de Trabalho Docente (PTDs) até o novo PCN entrar em vigor (estas orientações seriam enviadas para os supervisores pedagógicos).  A resposta deve ser em texto por extenso com aproximadamente 2.000 caracteres.
+## 19. Orientações Metodológicas
+Deve propor como mudanças nos indicadores e nos elementos de competência se refletem nas práticas pedagógicas do docente. Assim como as demais, essa tabela deve contemplar todas as Unidades Curriculares e conter três colunas, organizadas da esquerda para a direita, com os seguintes títulos: 
+1.	UCs
+2.	Propostas de orientações metodológicas
+3.	Justificativa da mudança proposta
+
+## 22. Projeto Integrador
+Inserir uma tabela contendo possíveis aperfeiçoamentos e propostas de atualização referentes aos dois temas geradores do Projeto Integrador previstos no Plano de Curso. A tabela deve conter duas colunas:
+Coluna 1: Tema gerador
+Coluna 2: Propostas de atualização à luz dos impactos da automação
+
+## 23. Instalações, Equipamentos e Recursos Didáticos
+Atualizações nos Instalações, Equipamentos e Recursos Didáticos: 
+Inserir as demandas por equipamentos e recursos necessários à implementação das atualizações sugeridas nas Unidades Curriculares. Caso alguma UC seja impactada por transformações decorrentes da automação, devem ser especificados os recursos e adequações requeridos nos ambientes de aprendizagem para sua viabilização. 
+
+## 24. Tabela de referências
+Liste cada documento utilizado na análise, que são os que estão em BASE, os que você leu e explique como cada documento foi usado na análise.
+A tabela deve ser organizada em 2 colunas, cujos títulos seguem abaixo, da esquerda para a direita:
+- Documento/Referência
+[Nome do documento/referência com link para o local do arquivo]
+- Explicação das informações aproveitadas do documento para a elaboração do relatório.
+</FINE-TUNING>
+Incluir uma nova tabela com alterações nas orientações metodológicas, indicando como as mudanças nos indicadores e nos elementos de competência se refletem nas práticas pedagógicas do docente. Assim como as demais, essa tabela deve contemplar todas as Unidades Curriculares e conter três colunas, organizadas da esquerda para a direita, com os seguintes títulos:
+UCs
+Propostas de orientações metodológicas
+Justificativa da mudança proposta
+**Não deixe de analisar todas as Unidades Curriculares (UCs) do Plano de Curso (PC). 
+Não se esqueça de produzir um relatório com os 24 itens indicados.**
+
+Para a tabela que propõe novos nomes para as Unidades Curriculares, a redação deve iniciar com um verbo (ação/fazer profissional), seguido do objeto sobre o qual a ação profissional incide. Exemplo: Recepcionar e atender clientes no meio de hospedagem.
+Tabela 4, que trata dos ajustes na carga horária, justificar a necessidade de mudança da carga horária.
+Nas tabelas com alterações nos "indicadores" e nos elementos de competência ("conhecimentos", "habilidades" e "atitudes/valores"), contemplar modificações para todas as Unidades Curriculares, de modo que nenhuma UC fique sem sugestões de alteração.
+Incluir uma nova tabela com alterações nas orientações metodológicas, indicando como as mudanças nos indicadores e nos elementos de competência se refletem nas práticas pedagógicas do docente. Assim como as demais, essa tabela deve contemplar todas as Unidades Curriculares e conter três colunas, organizadas da esquerda para a direita, com os seguintes títulos:
+UCs
+Propostas de orientações metodológicas
+Justificativa da mudança proposta
+
+Atenção:
+O texto referente às competências gerais (Marcas Formativas do Senac) deve ser mantido sem alterações.
+ 
+Caso identifique a necessidade de incluir alguma nova competência específica no perfil profissional, registre a proposta no formato abaixo:
+Nova competência: [Nome da nova competência] (A redação da competência deverá ser iniciada com um verbo (ação/fazer profissional), seguido do objeto sobre o qual incide a ação profissional. Exemplo: Recepcionar e atender (ação) clientes no meio de hospedagem (objeto)
+
+Justificativa: [Apresentar a fundamentação que comprove a necessidade de inclusão, considerando as demandas do mercado de trabalho, avanços tecnológicos, mudanças no setor ou novas exigências legais.]
+
+Explique os detalhes de cada alteração proposta para todas as Unidades Curriculares com alterações sugeridas, as Unidades listadas que tem mudanças na tabela, precisam no detalhamento explicar o que muda e porque a mudança é necessária, é fundamental explicar o motivo da proposta de mudança. Visão Geral: O mercado de trabalho brasileiro está em constante transformação, impulsionado por avanços tecnológicos, mudanças demográficas e novas demandas da sociedade. Para se destacar, é crucial que os profissionais de todas as áreas estejam atentos aos temas que moldam o futuro de suas profissões.
+Tecnologia: A automação, a inteligência artificial e a transformação digital estão impactando todas as profissões, exigindo novas habilidades e adaptação constante.
+Sustentabilidade: A crescente preocupação com o meio ambiente e a responsabilidade social está moldando as práticas e os valores das empresas, influenciando as profissões.
+Globalização: A integração da economia global exige profissionais com habilidades interculturais, domínio de idiomas e capacidade de adaptação a diferentes contextos.
+Mudanças demográficas: O envelhecimento da população e a diversidade crescente no mercado de trabalho trazem novos desafios e oportunidades para as profissões.
+Temas Fundamentais por Segmento Profissional; tente incluir  o ESG que é uma sigla em inglês que significa "Environmental, Social and Governance" (Ambiental, Social e Governança). É um conjunto de práticas e princípios empresariais que visam o desenvolvimento sustentável de uma organização e como a formação do profissional é impactada com esta prática.
+Sempre diga como cada documento foi utilizado, detalhe as mudanças de cada UC quando forem necessárias. 
+Analise o plano de curso. Liste como utilizou cada arquivo dos documentos base em sua análise.
+o documento será exportado par aum dovumento do Word, assim, deixe de forma que fique legível e cuidado com a formatação das tabelas para não quebar na página
